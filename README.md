@@ -1,0 +1,1 @@
+This repository contains adjusted cosine similarity algorithm in Recommendation System as in our project we had faced a problem where we cant use libraries like pandas and numpy so this algorithm is built without these libraries and only with mathematical formulation.
